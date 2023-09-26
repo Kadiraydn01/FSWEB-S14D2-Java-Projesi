@@ -1,6 +1,6 @@
 package com.workintech.Home;
 
-public class Bedroom {
+public class Bedroom{
     private String name;
     private Wall wall1;
     private Wall wall2;

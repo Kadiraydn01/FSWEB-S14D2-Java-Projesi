@@ -23,15 +23,8 @@ public class Lamp {
         return globRating;
     }
     public void turnOn(){
-        System.out.println("Lamp is being tuned on");
+        System.out.println("Lamp is being turned on");
     }
 
-    @Override
-    public String toString() {
-        return "Lamp{" +
-                "style=" + style +
-                ", battery=" + battery +
-                ", globRating=" + globRating +
-                '}';
-    }
+
 }
